@@ -1,3 +1,7 @@
+dataflowstreams
+===============
+
+Programming environment for streaming data centered computing
 # Streaming Estimators
 This repo is for my streaming estimators of statistical properties.
 We start with the variance estimator which can be used to find outliers when used iteratively.
